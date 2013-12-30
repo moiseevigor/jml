@@ -12,7 +12,7 @@ Body = function() {
 
 Nice ideas at [Asana](https://asana.com/luna)
 
-```
+```javascript
 defineType('World', {
   messages: List/*<ChatMessage>*/
 });
